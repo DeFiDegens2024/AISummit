@@ -355,7 +355,7 @@ header.hero {
 @media (max-width: 768px) {
 
     .background-gif {
-        content: url('images/small.png');
+        content: url('images/1.png');
         /* Small screen background GIF */
     }
 }
